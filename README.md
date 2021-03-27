@@ -1,2 +1,3 @@
-# fin
-#home work on finmath problems
+#fin
+finmath problems: 
+bond price evaluation, risk hedging, credit default swaps
